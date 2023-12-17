@@ -26,7 +26,7 @@ Esta aplicação consiste em uma de lista de tarefas cronometradas.
 O usuário poderá criar uma tarefa que vai ser executa, iniciar o cronômetro para marcar quanto tempo vai demorar para finalizar e ao parar o cronômetro a tarefa executada é inserida na lista de tarefas concluídas com o tempo gasto para sua finalização.
 <br />
 
-Deploy na vercel, acessar site [Alura Tracker](https://tracker-vuejs-wanderson-timoteo.vercel.app/)
+Deploy na vercel, acessar site [Alura Tracker](https://timed-tasks-wanderson-timoteo.vercel.app/)
 
 ### Tema Light
 
@@ -90,7 +90,7 @@ C:\Users\NomeDoComputador\Documents\CloneDoProjeto
 
 #### ❗️ Instalando as Dependências (via Windows):
 
-Bom, agora que clonou o projeto **(Acesse a pasta `tracker-vue`)**. Agora abra um CMD ou terminal ou prompt de comando e digite a seguinte instrução:
+Bom, agora que clonou o projeto **(Acesse a pasta `timed-tasks`)**. Agora abra um CMD ou terminal ou prompt de comando e digite a seguinte instrução:
 
 ```sh
 npm install
@@ -124,7 +124,7 @@ ou
 yarn serve
 ```
 
-Pronto! dessa forma o projeto `tracker-vue` estará rodando localmente em sua máquina. Acesse no navegador o endereço abaixo:
+Pronto! dessa forma o projeto `timed-tasks` estará rodando localmente em sua máquina. Acesse no navegador o endereço abaixo:
 
 ```sh
 http://localhost:8080/
@@ -134,7 +134,7 @@ http://localhost:8080/
 
 ## 🚩 Tenho Dúvidas... O que fazer?
 
-Caso tenha dúvidas sobre o código do projeto, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/Wanderson-A-Timoteo/my-vuejs-studies/issues)**. Assim que possível, responderei todas as dúvidas!
+Caso tenha dúvidas sobre o código do projeto, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/Wanderson-A-Timoteo/timed-tasks/issues)**. Assim que possível, responderei todas as dúvidas!
 
 <br>
 
