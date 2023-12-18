@@ -26,7 +26,7 @@ Esta aplicação consiste em uma de lista de tarefas cronometradas.
 O usuário poderá criar uma tarefa que vai ser executa, iniciar o cronômetro para marcar quanto tempo vai demorar para finalizar e ao parar o cronômetro a tarefa executada é inserida na lista de tarefas concluídas com o tempo gasto para sua finalização.
 <br />
 
-Deploy na vercel, acessar site [Alura Tracker](https://timed-tasks-wanderson-timoteo.vercel.app/)
+Deploy na vercel, acessar site [Timed Tasks](https://timed-tasks-wanderson-timoteo.vercel.app/)
 
 ### Tema Light
 
